@@ -5,3 +5,4 @@
 Included software:
 
 * dgVoodoo2
+* waifu2x-ncnn-vulkan
