@@ -9,6 +9,10 @@
         [
             "waifu2x-ncnn-vulkan.exe",
             "waifu2x-ncnn-vulkan"
+        ],
+        [
+            "waifu2x-ncnn-vulkan.exe",
+            "waifu2x"
         ]
     ],
     "checkver": {
