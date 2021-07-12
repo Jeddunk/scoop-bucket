@@ -1,0 +1,25 @@
+{
+    "version": "1.37",
+    "description": "Image Upscaling GUI based on ESRGAN.",
+    "homepage": "https://github.com/n00mkrad/cupscale",
+    "license": "MIT",
+    "url": "https://github.com/n00mkrad/cupscale/releases/download/1.37/Cupscale1.37.0.zip",
+    "extract_dir": "Cupscale1.37.0",
+    "bin": [
+        [
+            "Cupscale.exe",
+            "Cupscale",
+            "-portable"
+        ]
+    ],
+    "persist": [
+        ["CupscaleData", "data"]
+    ],
+    "checkver": {
+        "github": "https://github.com/n00mkrad/cupscale"
+    },
+    "autoupdate": {
+        "url": "https://github.com/n00mkrad/cupscale/releases/download/$version/Cupscale$version.zip",
+        "extract_dir": "Cupscale$version"
+    }
+}

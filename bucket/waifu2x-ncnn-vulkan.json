@@ -1,10 +1,10 @@
 {
-    "version": "20210210",
+    "version": "20210521",
     "description": "ncnn implementation of waifu2x converter.",
     "homepage": "https://github.com/nihui/waifu2x-ncnn-vulkan",
     "license": "MIT",
-    "url": "https://github.com/nihui/waifu2x-ncnn-vulkan/releases/download/20210210/waifu2x-ncnn-vulkan-20210210-windows.zip",
-    "extract_dir": "waifu2x-ncnn-vulkan-20210210-windows",
+    "url": "https://github.com/nihui/waifu2x-ncnn-vulkan/releases/download/20210521/waifu2x-ncnn-vulkan-20210521-windows.zip",
+    "extract_dir": "waifu2x-ncnn-vulkan-20210521-windows",
     "bin": [
         [
             "waifu2x-ncnn-vulkan.exe",
