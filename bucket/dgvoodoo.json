@@ -1,9 +1,9 @@
 {
-    "version": "2.75",
+    "version": "2.76.1",
     "description": "Wrapper for various graphics API, incl. Glide and DirectDraw.",
     "homepage": "http://dege.freeweb.hu/dgVoodoo2/",
     "license": "Freeware",
-    "url": "http://dege.freeweb.hu/dgVoodoo2/bin/dgVoodoo2_75.zip",
+    "url": "http://dege.freeweb.hu/dgVoodoo2/bin/dgVoodoo2_76_1.zip",
     "bin": [
         [
             "dgVoodooCpl.exe",
@@ -16,12 +16,10 @@
             "dgVoodoo"
         ]
     ],
-    "persist": [
-        "dgVoodoo.conf"
-    ],
+    "persist": "dgVoodoo.conf",
     "checkver": {
         "url": "http://dege.freeweb.hu/dgVoodoo2/ReadmeGeneral/",
-        "re": "dgVoodoo ([\\d.]+): Glide and DirectX API libraries.*"
+        "re": "dgVoodoo ([\\d.]+)"
     },
     "autoupdate": {
         "url": "http://dege.freeweb.hu/dgVoodoo2/bin/dgVoodoo$underscoreVersion.zip"
