@@ -7,3 +7,6 @@ Included software:
 * dgVoodoo2
 * waifu2x-ncnn-vulkan
 * cupscale
+* 7kaa
+* qimgv-video
+* qimgv
