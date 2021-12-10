@@ -11,3 +11,5 @@ Included software:
 * qimgv-video
 * qimgv
 * maptool
+* edopro
+* ygo-omega
