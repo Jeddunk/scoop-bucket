@@ -10,3 +10,4 @@ Included software:
 * 7kaa
 * qimgv-video
 * qimgv
+* maptool
