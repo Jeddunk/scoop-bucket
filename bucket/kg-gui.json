@@ -1,0 +1,23 @@
+{
+    "version": "1.2.5",
+    "description": "KoalaGeddon GUI Editor",
+    "homepage": "https://github.com/g-yui/KoalaGeddon-Configurator",
+    "license": {
+        "identifier": "Unknown",
+        "url": "https://raw.githubusercontent.com/g-yui/KoalaGeddon-Configurator/main/LICENSE"
+    },
+    "depends": "koalageddon",
+    "url": "https://github.com/g-yui/KoalaGeddon-Configurator/releases/download/1.2.5/KG.-.GUI.7z",
+    "hash": "92f539ec0e3e2d4118432eb3cf85604a456829bf5d726bd2d4d4bd8b26d21d0c",
+    "extract_dir": "KG - GUI",
+    "shortcuts": [
+        [
+            "KG - GUI.exe",
+            "Koalageddon GUI"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/g-yui/KoalaGeddon-Configurator/releases/download/$version/KG.-.GUI.7z"
+    }
+}
