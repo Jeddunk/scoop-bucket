@@ -20,7 +20,7 @@
     "persist": "dgVoodoo.conf",
     "checkver": {
         "url": "http://dege.freeweb.hu/dgVoodoo2/ReadmeGeneral/",
-        "re": "dgVoodoo ([\\d.]+)"
+        "regex": "dgVoodoo ([\\d.]+)"
     },
     "autoupdate": {
         "url": "http://dege.freeweb.hu/dgVoodoo2/bin/dgVoodoo$underscoreVersion.zip"

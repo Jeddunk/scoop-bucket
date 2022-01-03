@@ -23,7 +23,7 @@
     ],
     "checkver": {
         "url": "https://github.com/the3dfxdude/7kaa/releases/latest",
-        "re": "7kaa-install-win32-([\\d]+)\\.([\\d]+)\\.([\\d]+)(.*)?\\.exe",
+        "regex": "7kaa-install-win32-([\\d]+)\\.([\\d]+)\\.([\\d]+)(.*)?\\.exe",
         "replace": "${1}.${2}.${3}${4}"
     },
     "autoupdate": {
