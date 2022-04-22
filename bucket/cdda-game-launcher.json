@@ -1,11 +1,11 @@
 {
     "homepage": "https://github.com/remyroy/CDDA-Game-Launcher",
     "description": "A Cataclysm: Dark Days Ahead launcher with additional features",
-    "version": "1.5.5",
+    "version": "1.5.6",
     "license": "MIT",
-    "url": "https://github.com/remyroy/CDDA-Game-Launcher/releases/download/v1.5.5/cddagl_portable_v1.5.5.zip",
-    "hash": "bd08159ea7077359fc965955659995a6e98a7b80f99255be771d24a514edfbe5",
-    "extract_dir": "cddagl_portable_v1.5.5",
+    "url": "https://github.com/remyroy/CDDA-Game-Launcher/releases/download/v1.5.6/cddagl_portable_v1.5.6.zip",
+    "hash": "3f34c94ac21382e0c3ab3d724c2dad466f56efcc01d2373d2ccc569b01c76f9a",
+    "extract_dir": "cddagl_portable_v1.5.6",
     "shortcuts": [
         [
             "Launcher.bat",
