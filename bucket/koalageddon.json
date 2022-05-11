@@ -1,13 +1,13 @@
 {
-    "version": "1.5.3",
+    "version": "1.5.4",
     "description": "Legit DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay (R1)",
     "homepage": "https://github.com/acidicoala/Koalageddon",
     "license": {
         "identifier": "BSD-Zero-Clause",
         "url": "https://raw.githubusercontent.com/acidicoala/Koalageddon/master/LICENSE.txt"
     },
-    "url": "https://github.com/acidicoala/Koalageddon/releases/download/v1.5.3/KoalageddonInstaller.exe",
-    "hash": "a7c4a06d777c07ef94869ae01f4d787b789df41b4af553b37b7ba992434b4f7b",
+    "url": "https://github.com/acidicoala/Koalageddon/releases/download/v1.5.4/KoalageddonInstaller.exe",
+    "hash": "6e027b8d745ea9ef349493f65d12347d090b2a6ae7b0162b4f8c9c801a82b7f9",
     "shortcuts": [
         [
             "IntegrationWizard32.exe",
