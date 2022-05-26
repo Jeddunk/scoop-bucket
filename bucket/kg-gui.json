@@ -15,5 +15,9 @@
             "KG - GUI.exe",
             "Koalageddon GUI"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "https://codeberg.org/api/v1/repos/yui__/KoalaGeddon-Configurator/releases?limit=1",
+        "jsonpath": "$..tag_name"
+    }
 }
