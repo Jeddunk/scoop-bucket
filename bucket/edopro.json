@@ -1,13 +1,13 @@
 {
-    "version": "39.2.0",
+    "version": "39.3.1",
     "description": "Project Ignis: EDOPro",
     "homepage": "https://github.com/edo9300/edopro",
     "license": {
         "identifier": "GPL-3.0-only",
         "url": "https://raw.githubusercontent.com/edo9300/edopro/blob/master/COPYING"
     },
-    "url": "https://github.com/ProjectIgnis/edopro-assets/releases/download/20210927/ProjectIgnis-EDOPro-39.2.0-windows.zip",
-    "hash": "md5:be433f6f5e4c15ba51b8e609671f981a",
+    "url": "https://github.com/ProjectIgnis/edopro-assets/releases/download/39.3.1/ProjectIgnis-EDOPro-39.3.1-windows.zip",
+    "hash": "md5:985a6303ffe14cdf298be5845d321572",
     "extract_dir": "ProjectIgnis",
     "shortcuts": [
         [
@@ -16,7 +16,7 @@
         ]
     ],
     "checkver": {
-        "url": "https://github.com/ProjectIgnis/edopro-assets/releases/latest",
+        "url": "https://github.com/ProjectIgnis/edopro-assets/releases",
         "regex": "/(?<tag>[\\d\\s\\.]+)/ProjectIgnis-EDOPro-(?<version>[\\d\\.]+)-windows.zip",
         "replace": "${version}"
     },
@@ -27,7 +27,7 @@
             "find": "ProjectIgnis-EDOPro-$matchVersion-windows.zip - MD5\\: <code>($md5)"
         }
     },
-    "notes":[
+    "notes": [
         "Installation has finished, however you can optionally install HD assets.",
         "See: https://github.com/AlexsanderRST/EDOPro-HD-Pics-Downloader"
     ]
